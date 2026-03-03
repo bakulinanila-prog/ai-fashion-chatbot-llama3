@@ -1,0 +1,12 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Flutter
+fashion_chat_app/build/
+fashion_chat_app/.dart_tool/
+fashion_chat_app/.idea/
+
+# System
+.DS_Store

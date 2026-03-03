@@ -1,0 +1,1501 @@
+[
+  // ===========================
+  // WOMEN — COATS
+  // ===========================
+
+  {
+    "id": "w_coats_1",
+    "name": "Beige Elegant Coat",
+    "price": 2990,
+    "gender": "women",
+    "categoryId": "w_coats",
+    "type": "outerwear",
+    "subcategory": "coat",
+    "season": ["autumn", "winter"],
+    "style": ["classic", "elegant"],
+    "formality": "smart_casual",
+    "color": "beige",
+    "palette": "neutral"
+  },
+  {
+    "id": "w_coats_2",
+    "name": "Brown Business Coat",
+    "price": 3190,
+    "gender": "women",
+    "categoryId": "w_coats",
+    "type": "outerwear",
+    "subcategory": "coat",
+    "season": ["autumn", "winter"],
+    "style": ["business", "minimal"],
+    "formality": "business",
+    "color": "brown",
+    "palette": "dark"
+  },
+  {
+    "id": "w_coats_3",
+    "name": "Khaki Urban Coat",
+    "price": 3390,
+    "gender": "women",
+    "categoryId": "w_coats",
+    "type": "outerwear",
+    "subcategory": "coat",
+    "season": ["winter"],
+    "style": ["modern", "urban"],
+    "formality": "smart_casual",
+    "color": "khaki",
+    "palette": "dark"
+  },
+  {
+    "id": "w_coats_4",
+    "name": "Minimal Beige Coat",
+    "price": 3590,
+    "gender": "women",
+    "categoryId": "w_coats",
+    "type": "outerwear",
+    "subcategory": "coat",
+    "season": ["autumn", "winter"],
+    "style": ["minimal"],
+    "formality": "smart_casual",
+    "color": "beige",
+    "palette": "neutral"
+  },
+  {
+    "id": "w_coats_5",
+    "name": "Classic Structured Coat",
+    "price": 3790,
+    "gender": "women",
+    "categoryId": "w_coats",
+    "type": "outerwear",
+    "subcategory": "coat",
+    "season": ["winter"],
+    "style": ["classic", "business"],
+    "formality": "business",
+    "color": "beige",
+    "palette": "neutral"
+  },
+
+  // ===========================
+  // WOMEN — JACKETS
+  // ===========================
+
+  {
+    "id": "w_jackets_1",
+    "name": "White Business Blazer",
+    "price": 1990,
+    "gender": "women",
+    "categoryId": "w_jackets",
+    "type": "outerwear",
+    "subcategory": "blazer",
+    "season": ["spring", "autumn"],
+    "style": ["business"],
+    "formality": "business",
+    "color": "white",
+    "palette": "light"
+  },
+  {
+    "id": "w_jackets_2",
+    "name": "Navy Classic Blazer",
+    "price": 2190,
+    "gender": "women",
+    "categoryId": "w_jackets",
+    "type": "outerwear",
+    "subcategory": "blazer",
+    "season": ["all_season"],
+    "style": ["classic"],
+    "formality": "business",
+    "color": "navy",
+    "palette": "cool"
+  },
+  {
+    "id": "w_jackets_3",
+    "name": "Beige Casual Jacket",
+    "price": 2390,
+    "gender": "women",
+    "categoryId": "w_jackets",
+    "type": "outerwear",
+    "subcategory": "jacket",
+    "season": ["winter"],
+    "style": ["casual", "urban"],
+    "formality": "casual",
+    "color": "beige",
+    "palette": "neutral"
+  },
+  {
+    "id": "w_jackets_4",
+    "name": "White Modern Jacket",
+    "price": 2590,
+    "gender": "women",
+    "categoryId": "w_jackets",
+    "type": "outerwear",
+    "subcategory": "jacket",
+    "season": ["spring", "summer"],
+    "style": ["modern"],
+    "formality": "smart_casual",
+    "color": "white",
+    "palette": "light"
+  },
+  {
+    "id": "w_jackets_5",
+    "name": "Brown Minimal Jacket",
+    "price": 2790,
+    "gender": "women",
+    "categoryId": "w_jackets",
+    "type": "outerwear",
+    "subcategory": "jacket",
+    "season": ["spring"],
+    "style": ["minimal"],
+    "formality": "smart_casual",
+    "color": "brown",
+    "palette": "dark"
+  },
+
+  // ===========================
+  // WOMEN — DRESSES
+  // ===========================
+
+  {
+    "id": "w_dresses_1",
+    "name": "Navy Evening Dress",
+    "price": 1290,
+    "gender": "women",
+    "categoryId": "w_dresses",
+    "type": "dress",
+    "subcategory": "dress",
+    "season": ["spring", "summer"],
+    "style": ["romantic"],
+    "formality": "evening",
+    "color": "navy",
+    "palette": "dark"
+  },
+  {
+    "id": "w_dresses_2",
+    "name": "Black Minimal Dress",
+    "price": 1490,
+    "gender": "women",
+    "categoryId": "w_dresses",
+    "type": "dress",
+    "subcategory": "dress",
+    "season": ["spring", "summer"],
+    "style": ["minimal"],
+    "formality": "smart_casual",
+    "color": "black",
+    "palette": "dark"
+  },
+  {
+    "id": "w_dresses_3",
+    "name": "Red Elegant Dress",
+    "price": 1690,
+    "gender": "women",
+    "categoryId": "w_dresses",
+    "type": "dress",
+    "subcategory": "dress",
+    "season": ["spring", "summer"],
+    "style": ["elegant"],
+    "formality": "evening",
+    "color": "red",
+    "palette": "dark"
+  },
+  {
+    "id": "w_dresses_4",
+    "name": "Rose Evening Dress",
+    "price": 1890,
+    "gender": "women",
+    "categoryId": "w_dresses",
+    "type": "dress",
+    "subcategory": "dress",
+    "season": ["spring", "summer"],
+    "style": ["elegant"],
+    "formality": "evening",
+    "color": "rose",
+    "palette": "light"
+  },
+  {
+    "id": "w_dresses_5",
+    "name": "Brown Summer Dress",
+    "price": 1090,
+    "gender": "women",
+    "categoryId": "w_dresses",
+    "type": "dress",
+    "subcategory": "dress",
+    "season": ["summer"],
+    "style": ["elegant"],
+    "formality": "evening",
+    "color": "brown",
+    "palette": "dark"
+  }
+
+  // ===========================
+  // WOMEN — JEANS
+  // ===========================
+
+  {
+    "id": "w_jeans_1",
+    "name": "Beige Casual Jeans",
+    "price": 1190,
+    "gender": "women",
+    "categoryId": "w_jeans",
+    "type": "bottom",
+    "subcategory": "jeans",
+    "season": ["all_season"],
+    "style": ["business", "casual"],
+    "formality": "casual",
+    "color": "beige",
+    "palette": "neutral"
+  },
+  {
+    "id": "w_jeans_2",
+    "name": "Blue Street Jeans",
+    "price": 1390,
+    "gender": "women",
+    "categoryId": "w_jeans",
+    "type": "bottom",
+    "subcategory": "jeans",
+    "season": ["all_season"],
+    "style": ["streetwear"],
+    "formality": "casual",
+    "color": "blue",
+    "palette": "dark"
+  },
+  {
+    "id": "w_jeans_3",
+    "name": "White Minimal Jeans",
+    "price": 1590,
+    "gender": "women",
+    "categoryId": "w_jeans",
+    "type": "bottom",
+    "subcategory": "jeans",
+    "season": ["all_season"],
+    "style": ["casual", "minimal"],
+    "formality": "casual",
+    "color": "white",
+    "palette": "light"
+  },
+  {
+    "id": "w_jeans_4",
+    "name": "Brown Urban Jeans",
+    "price": 1790,
+    "gender": "women",
+    "categoryId": "w_jeans",
+    "type": "bottom",
+    "subcategory": "jeans",
+    "season": ["all_season"],
+    "style": ["streetwear"],
+    "formality": "casual",
+    "color": "brown",
+    "palette": "dark"
+  },
+  {
+    "id": "w_jeans_5",
+    "name": "Classic Blue Denim",
+    "price": 1990,
+    "gender": "women",
+    "categoryId": "w_jeans",
+    "type": "bottom",
+    "subcategory": "jeans",
+    "season": ["all_season"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "blue",
+    "palette": "dark"
+  },
+
+  // ===========================
+  // WOMEN — SKIRTS
+  // ===========================
+
+  {
+    "id": "w_skirts_1",
+    "name": "Light Elegant Skirt",
+    "price": 990,
+    "gender": "women",
+    "categoryId": "w_skirts",
+    "type": "bottom",
+    "subcategory": "skirt",
+    "season": ["spring", "summer"],
+    "style": ["elegant"],
+    "formality": "smart_casual",
+    "color": "beige",
+    "palette": "light"
+  },
+  {
+    "id": "w_skirts_2",
+    "name": "Blue Casual Skirt",
+    "price": 1090,
+    "gender": "women",
+    "categoryId": "w_skirts",
+    "type": "bottom",
+    "subcategory": "skirt",
+    "season": ["spring", "summer", "autumn"],
+    "style": ["casual", "elegant"],
+    "formality": "smart_casual",
+    "color": "blue",
+    "palette": "light"
+  },
+  {
+    "id": "w_skirts_3",
+    "name": "Navy Everyday Skirt",
+    "price": 1190,
+    "gender": "women",
+    "categoryId": "w_skirts",
+    "type": "bottom",
+    "subcategory": "skirt",
+    "season": ["spring", "summer", "autumn"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "navy",
+    "palette": "dark"
+  },
+  {
+    "id": "w_skirts_4",
+    "name": "Pink Cocktail Skirt",
+    "price": 1290,
+    "gender": "women",
+    "categoryId": "w_skirts",
+    "type": "bottom",
+    "subcategory": "skirt",
+    "season": ["spring", "summer"],
+    "style": ["vibrant", "elegant"],
+    "formality": "evening",
+    "color": "pink",
+    "palette": "light"
+  },
+  {
+    "id": "w_skirts_5",
+    "name": "Brown Casual Skirt",
+    "price": 1390,
+    "gender": "women",
+    "categoryId": "w_skirts",
+    "type": "bottom",
+    "subcategory": "skirt",
+    "season": ["spring", "summer", "autumn"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "brown",
+    "palette": "dark"
+  },
+
+  // ===========================
+  // WOMEN — SWEATERS
+  // ===========================
+
+  {
+    "id": "w_sweaters_1",
+    "name": "Pink Casual Sweater",
+    "price": 1090,
+    "gender": "women",
+    "categoryId": "w_sweaters",
+    "type": "top",
+    "subcategory": "sweater",
+    "season": ["autumn", "winter", "spring"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "pink",
+    "palette": "light"
+  },
+  {
+    "id": "w_sweaters_2",
+    "name": "Beige Minimal Sweater",
+    "price": 1290,
+    "gender": "women",
+    "categoryId": "w_sweaters",
+    "type": "top",
+    "subcategory": "sweater",
+    "season": ["autumn", "winter", "spring"],
+    "style": ["minimal"],
+    "formality": "casual",
+    "color": "beige",
+    "palette": "neutral"
+  },
+  {
+    "id": "w_sweaters_3",
+    "name": "Rose Elegant Sweater",
+    "price": 1490,
+    "gender": "women",
+    "categoryId": "w_sweaters",
+    "type": "top",
+    "subcategory": "sweater",
+    "season": ["autumn", "winter", "spring"],
+    "style": ["elegant"],
+    "formality": "evening",
+    "color": "rose",
+    "palette": "light"
+  },
+  {
+    "id": "w_sweaters_4",
+    "name": "Yellow Casual Sweater",
+    "price": 1690,
+    "gender": "women",
+    "categoryId": "w_sweaters",
+    "type": "top",
+    "subcategory": "sweater",
+    "season": ["autumn", "winter", "spring"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "yellow",
+    "palette": "vibrant"
+  },
+  {
+    "id": "w_sweaters_5",
+    "name": "Beige Smart Sweater",
+    "price": 1890,
+    "gender": "women",
+    "categoryId": "w_sweaters",
+    "type": "top",
+    "subcategory": "sweater",
+    "season": ["autumn", "winter", "spring"],
+    "style": ["business", "minimal"],
+    "formality": "smart_casual",
+    "color": "beige",
+    "palette": "neutral"
+  },
+
+  // ===========================
+  // WOMEN — SHOES
+  // ===========================
+
+  {
+    "id": "w_shoes_1",
+    "name": "Beige Elegant Heels",
+    "price": 1490,
+    "gender": "women",
+    "categoryId": "w_shoes",
+    "type": "shoes",
+    "subcategory": "heels",
+    "season": ["spring", "summer", "autumn"],
+    "style": ["business", "elegant"],
+    "formality": "evening",
+    "color": "beige",
+    "palette": "neutral"
+  },
+  {
+    "id": "w_shoes_2",
+    "name": "Black Minimal Mules",
+    "price": 1690,
+    "gender": "women",
+    "categoryId": "w_shoes",
+    "type": "shoes",
+    "subcategory": "mules",
+    "season": ["spring", "summer", "autumn"],
+    "style": ["minimal", "casual"],
+    "formality": "smart_casual",
+    "color": "black",
+    "palette": "dark"
+  },
+  {
+    "id": "w_shoes_3",
+    "name": "Rose Ballet Flats",
+    "price": 1890,
+    "gender": "women",
+    "categoryId": "w_shoes",
+    "type": "shoes",
+    "subcategory": "flats",
+    "season": ["spring", "summer", "autumn"],
+    "style": ["casual", "cute"],
+    "formality": "smart_casual",
+    "color": "rose",
+    "palette": "light"
+  },
+  {
+    "id": "w_shoes_4",
+    "name": "Brown Evening Sandals",
+    "price": 2090,
+    "gender": "women",
+    "categoryId": "w_shoes",
+    "type": "shoes",
+    "subcategory": "sandals",
+    "season": ["spring", "summer"],
+    "style": ["elegant"],
+    "formality": "evening",
+    "color": "brown",
+    "palette": "neutral"
+  },
+  {
+    "id": "w_shoes_5",
+    "name": "White Statement Heels",
+    "price": 2290,
+    "gender": "women",
+    "categoryId": "w_shoes",
+    "type": "shoes",
+    "subcategory": "heels",
+    "season": ["spring", "summer"],
+    "style": ["elegant"],
+    "formality": "evening",
+    "color": "white",
+    "palette": "light"
+  }
+
+  // ===========================
+  // MEN — JACKETS (5)
+  // ===========================
+
+  {
+    "id": "m_jackets_1",
+    "name": "Grey Tailored Coat",
+    "price": 2190,
+    "gender": "men",
+    "categoryId": "m_jackets",
+    "type": "outerwear",
+    "subcategory": "coat",
+    "season": ["autumn", "winter"],
+    "style": ["classic", "business"],
+    "formality": "business",
+    "color": "grey",
+    "palette": "dark"
+  },
+  {
+    "id": "m_jackets_2",
+    "name": "Navy Denim Jacket",
+    "price": 2390,
+    "gender": "men",
+    "categoryId": "m_jackets",
+    "type": "outerwear",
+    "subcategory": "jacket",
+    "season": ["spring", "autumn"],
+    "style": ["minimal", "casual"],
+    "formality": "smart_casual",
+    "color": "navy",
+    "palette": "dark"
+  },
+  {
+    "id": "m_jackets_3",
+    "name": "Black Urban Jacket",
+    "price": 1990,
+    "gender": "men",
+    "categoryId": "m_jackets",
+    "type": "outerwear",
+    "subcategory": "jacket",
+    "season": ["spring", "autumn", "winter"],
+    "style": ["urban", "casual"],
+    "formality": "casual",
+    "color": "black",
+    "palette": "dark"
+  },
+  {
+    "id": "m_jackets_4",
+    "name": "Black Casual Bomber",
+    "price": 2090,
+    "gender": "men",
+    "categoryId": "m_jackets",
+    "type": "outerwear",
+    "subcategory": "bomber",
+    "season": ["spring", "autumn"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "black",
+    "palette": "dark"
+  },
+  {
+    "id": "m_jackets_5",
+    "name": "Brown Smart Coat",
+    "price": 2290,
+    "gender": "men",
+    "categoryId": "m_jackets",
+    "type": "outerwear",
+    "subcategory": "coat",
+    "season": ["autumn", "winter"],
+    "style": ["business", "minimal"],
+    "formality": "smart_casual",
+    "color": "brown",
+    "palette": "neutral"
+  },
+
+  // ===========================
+  // MEN — TSHIRTS
+  // ===========================
+
+  {
+    "id": "m_tshirts_1",
+    "name": "White Sport T-Shirt",
+    "price": 590,
+    "gender": "men",
+    "categoryId": "m_tshirts",
+    "type": "top",
+    "subcategory": "tshirt",
+    "season": ["all_season"],
+    "style": ["sport"],
+    "formality": "sport",
+    "color": "white",
+    "palette": "light"
+  },
+  {
+    "id": "m_tshirts_2",
+    "name": "White Casual T-Shirt",
+    "price": 690,
+    "gender": "men",
+    "categoryId": "m_tshirts",
+    "type": "top",
+    "subcategory": "tshirt",
+    "season": ["all_season"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "white",
+    "palette": "neutral"
+  },
+  {
+    "id": "m_tshirts_3",
+    "name": "Black Street T-Shirt",
+    "price": 790,
+    "gender": "men",
+    "categoryId": "m_tshirts",
+    "type": "top",
+    "subcategory": "tshirt",
+    "season": ["all_season"],
+    "style": ["streetwear"],
+    "formality": "casual",
+    "color": "black",
+    "palette": "dark"
+  },
+  {
+    "id": "m_tshirts_4",
+    "name": "Pink Minimal T-Shirt",
+    "price": 890,
+    "gender": "men",
+    "categoryId": "m_tshirts",
+    "type": "top",
+    "subcategory": "tshirt",
+    "season": ["all_season"],
+    "style": ["minimal"],
+    "formality": "casual",
+    "color": "pink",
+    "palette": "light"
+  },
+  {
+    "id": "m_tshirts_5",
+    "name": "Beige Smart T-Shirt",
+    "price": 990,
+    "gender": "men",
+    "categoryId": "m_tshirts",
+    "type": "top",
+    "subcategory": "tshirt",
+    "season": ["all_season"],
+    "style": ["smart_casual"],
+    "formality": "smart_casual",
+    "color": "white",
+    "palette": "neutral"
+  },
+
+  // ===========================
+  // MEN — JEANS
+  // ===========================
+
+  {
+    "id": "m_jeans_1",
+    "name": "Classic Blue Jeans",
+    "price": 1190,
+    "gender": "men",
+    "categoryId": "m_jeans",
+    "type": "bottom",
+    "subcategory": "jeans",
+    "season": ["all_season"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "blue",
+    "palette": "dark"
+  },
+  {
+    "id": "m_jeans_2",
+    "name": "Urban Blue Denim",
+    "price": 1390,
+    "gender": "men",
+    "categoryId": "m_jeans",
+    "type": "bottom",
+    "subcategory": "jeans",
+    "season": ["all_season"],
+    "style": ["streetwear"],
+    "formality": "casual",
+    "color": "blue",
+    "palette": "light"
+  },
+  {
+    "id": "m_jeans_3",
+    "name": "Black Minimal Jeans",
+    "price": 1590,
+    "gender": "men",
+    "categoryId": "m_jeans",
+    "type": "bottom",
+    "subcategory": "jeans",
+    "season": ["all_season"],
+    "style": ["minimal"],
+    "formality": "smart_casual",
+    "color": "black",
+    "palette": "dark"
+  },
+  {
+    "id": "m_jeans_4",
+    "name": "Grey Smart Denim",
+    "price": 1790,
+    "gender": "men",
+    "categoryId": "m_jeans",
+    "type": "bottom",
+    "subcategory": "jeans",
+    "season": ["all_season"],
+    "style": ["smart_casual"],
+    "formality": "smart_casual",
+    "color": "grey",
+    "palette": "dark"
+  },
+  {
+    "id": "m_jeans_5",
+    "name": "Light Blue Casual Jeans",
+    "price": 1990,
+    "gender": "men",
+    "categoryId": "m_jeans",
+    "type": "bottom",
+    "subcategory": "jeans",
+    "season": ["all_season"],
+    "style": ["classic"],
+    "formality": "casual",
+    "color": "blue",
+    "palette": "light"
+  }
+
+  // ===========================
+  // MEN — SHIRTS (5)
+  // ===========================
+
+  {
+    "id": "m_shirts_1",
+    "name": "White Business Shirt",
+    "price": 1290,
+    "gender": "men",
+    "categoryId": "m_shirts",
+    "type": "top",
+    "subcategory": "shirt",
+    "season": ["all_season"],
+    "style": ["business", "classic"],
+    "formality": "business",
+    "color": "white",
+    "palette": "light"
+  },
+  {
+    "id": "m_shirts_2",
+    "name": "Beige Casual Shirt",
+    "price": 1390,
+    "gender": "men",
+    "categoryId": "m_shirts",
+    "type": "top",
+    "subcategory": "shirt",
+    "season": ["all_season"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "beige",
+    "palette": "neutral"
+  },
+  {
+    "id": "m_shirts_3",
+    "name": "Beige Minimal Shirt",
+    "price": 1490,
+    "gender": "men",
+    "categoryId": "m_shirts",
+    "type": "top",
+    "subcategory": "shirt",
+    "season": ["all_season"],
+    "style": ["minimal"],
+    "formality": "smart_casual",
+    "color": "beige",
+    "palette": "neutral"
+  },
+  {
+    "id": "m_shirts_4",
+    "name": "Navy Smart Shirt",
+    "price": 1590,
+    "gender": "men",
+    "categoryId": "m_shirts",
+    "type": "top",
+    "subcategory": "shirt",
+    "season": ["spring", "summer"],
+    "style": ["business", "casual"],
+    "formality": "smart_casual",
+    "color": "navy",
+    "palette": "dark"
+  },
+  {
+    "id": "m_shirts_5",
+    "name": "White Minimal Shirt",
+    "price": 1690,
+    "gender": "men",
+    "categoryId": "m_shirts",
+    "type": "top",
+    "subcategory": "shirt",
+    "season": ["all_season"],
+    "style": ["business", "minimal"],
+    "formality": "business",
+    "color": "white",
+    "palette": "light"
+  },
+
+  // ===========================
+  // MEN — SUITS (5)
+  // ===========================
+
+  {
+    "id": "m_suits_1",
+    "name": "Grey Classic Suit",
+    "price": 3990,
+    "gender": "men",
+    "categoryId": "m_suits",
+    "type": "set",
+    "subcategory": "suit",
+    "season": ["all_season"],
+    "style": ["classic"],
+    "formality": "business",
+    "color": "grey",
+    "palette": "dark"
+  },
+  {
+    "id": "m_suits_2",
+    "name": "Black Business Suit",
+    "price": 4190,
+    "gender": "men",
+    "categoryId": "m_suits",
+    "type": "set",
+    "subcategory": "suit",
+    "season": ["all_season"],
+    "style": ["business"],
+    "formality": "business",
+    "color": "black",
+    "palette": "dark"
+  },
+  {
+    "id": "m_suits_3",
+    "name": "Beige Modern Suit",
+    "price": 4390,
+    "gender": "men",
+    "categoryId": "m_suits",
+    "type": "set",
+    "subcategory": "suit",
+    "season": ["spring", "summer"],
+    "style": ["modern"],
+    "formality": "business",
+    "color": "beige",
+    "palette": "neutral"
+  },
+  {
+    "id": "m_suits_4",
+    "name": "Navy Smart Suit",
+    "price": 4590,
+    "gender": "men",
+    "categoryId": "m_suits",
+    "type": "set",
+    "subcategory": "suit",
+    "season": ["all_season"],
+    "style": ["minimal"],
+    "formality": "business",
+    "color": "navy",
+    "palette": "dark"
+  },
+  {
+    "id": "m_suits_5",
+    "name": "Charcoal Elegant Suit",
+    "price": 4790,
+    "gender": "men",
+    "categoryId": "m_suits",
+    "type": "set",
+    "subcategory": "suit",
+    "season": ["autumn", "winter"],
+    "style": ["elegant"],
+    "formality": "business",
+    "color": "grey",
+    "palette": "dark"
+  },
+
+  // ===========================
+  // MEN — SHOES (5)
+  // ===========================
+
+  {
+    "id": "m_shoes_1",
+    "name": "Black Leather Boots",
+    "price": 1690,
+    "gender": "men",
+    "categoryId": "m_shoes",
+    "type": "shoes",
+    "subcategory": "boots",
+    "season": ["autumn", "winter"],
+    "style": ["classic"],
+    "formality": "smart_casual",
+    "color": "black",
+    "palette": "dark"
+  },
+  {
+    "id": "m_shoes_2",
+    "name": "White Casual Sneakers",
+    "price": 1490,
+    "gender": "men",
+    "categoryId": "m_shoes",
+    "type": "shoes",
+    "subcategory": "sneakers",
+    "season": ["all_season"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "white",
+    "palette": "light"
+  },
+  {
+    "id": "m_shoes_3",
+    "name": "Brown Urban Trainers",
+    "price": 1590,
+    "gender": "men",
+    "categoryId": "m_shoes",
+    "type": "shoes",
+    "subcategory": "trainers",
+    "season": ["all_season"],
+    "style": ["streetwear"],
+    "formality": "casual",
+    "color": "brown",
+    "palette": "dark"
+  },
+  {
+    "id": "m_shoes_4",
+    "name": "Black Business Loafers",
+    "price": 1790,
+    "gender": "men",
+    "categoryId": "m_shoes",
+    "type": "shoes",
+    "subcategory": "loafers",
+    "season": ["spring", "summer", "autumn"],
+    "style": ["business"],
+    "formality": "business",
+    "color": "black",
+    "palette": "dark"
+  },
+  {
+    "id": "m_shoes_5",
+    "name": "Brown Formal Shoes",
+    "price": 1890,
+    "gender": "men",
+    "categoryId": "m_shoes",
+    "type": "shoes",
+    "subcategory": "formal",
+    "season": ["all_season"],
+    "style": ["classic"],
+    "formality": "business",
+    "color": "brown",
+    "palette": "neutral"
+  },
+
+  // ===========================
+  // MEN — HOODIES (5)
+  // ===========================
+
+  {
+    "id": "m_hoodies_1",
+    "name": "Grey Street Hoodie",
+    "price": 990,
+    "gender": "men",
+    "categoryId": "m_hoodies",
+    "type": "top",
+    "subcategory": "hoodie",
+    "season": ["autumn", "winter"],
+    "style": ["streetwear"],
+    "formality": "casual",
+    "color": "grey",
+    "palette": "dark"
+  },
+  {
+    "id": "m_hoodies_2",
+    "name": "Brown Minimal Hoodie",
+    "price": 1090,
+    "gender": "men",
+    "categoryId": "m_hoodies",
+    "type": "top",
+    "subcategory": "hoodie",
+    "season": ["autumn", "winter", "spring"],
+    "style": ["minimal"],
+    "formality": "casual",
+    "color": "brown",
+    "palette": "neutral"
+  },
+  {
+    "id": "m_hoodies_3",
+    "name": "Beige Smart Hoodie",
+    "price": 1190,
+    "gender": "men",
+    "categoryId": "m_hoodies",
+    "type": "top",
+    "subcategory": "hoodie",
+    "season": ["autumn", "winter"],
+    "style": ["smart_casual"],
+    "formality": "smart_casual",
+    "color": "beige",
+    "palette": "neutral"
+  },
+  {
+    "id": "m_hoodies_4",
+    "name": "Beige Sport Hoodie",
+    "price": 1290,
+    "gender": "men",
+    "categoryId": "m_hoodies",
+    "type": "top",
+    "subcategory": "hoodie",
+    "season": ["autumn", "winter"],
+    "style": ["sport"],
+    "formality": "sport",
+    "color": "beige",
+    "palette": "light"
+  },
+  {
+    "id": "m_hoodies_5",
+    "name": "Grey Relaxed Hoodie",
+    "price": 1390,
+    "gender": "men",
+    "categoryId": "m_hoodies",
+    "type": "top",
+    "subcategory": "hoodie",
+    "season": ["autumn", "winter"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "grey",
+    "palette": "neutral"
+  }
+
+  // ===========================
+  // KIDS — JACKETS (5)
+  // ===========================
+
+  {
+    "id": "k_jackets_1",
+    "name": "Pink Casual Jacket",
+    "price": 990,
+    "gender": "kids",
+    "categoryId": "k_jackets",
+    "type": "outerwear",
+    "subcategory": "jacket",
+    "season": ["autumn", "winter"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "pink",
+    "palette": "light"
+  },
+  {
+    "id": "k_jackets_2",
+    "name": "Yellow Sport Jacket",
+    "price": 1090,
+    "gender": "kids",
+    "categoryId": "k_jackets",
+    "type": "outerwear",
+    "subcategory": "jacket",
+    "season": ["spring", "autumn"],
+    "style": ["sport"],
+    "formality": "casual",
+    "color": "yellow",
+    "palette": "vibrant"
+  },
+  {
+    "id": "k_jackets_3",
+    "name": "Beige Everyday Jacket",
+    "price": 1190,
+    "gender": "kids",
+    "categoryId": "k_jackets",
+    "type": "outerwear",
+    "subcategory": "jacket",
+    "season": ["autumn"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "beige",
+    "palette": "neutral"
+  },
+  {
+    "id": "k_jackets_4",
+    "name": "Brown Smart Jacket",
+    "price": 1290,
+    "gender": "kids",
+    "categoryId": "k_jackets",
+    "type": "outerwear",
+    "subcategory": "jacket",
+    "season": ["spring"],
+    "style": ["minimal"],
+    "formality": "smart_casual",
+    "color": "brown",
+    "palette": "neutral"
+  },
+  {
+    "id": "k_jackets_5",
+    "name": "Navy Floral Jacket",
+    "price": 1390,
+    "gender": "kids",
+    "categoryId": "k_jackets",
+    "type": "outerwear",
+    "subcategory": "jacket",
+    "season": ["autumn", "winter"],
+    "style": ["sport", "playful"],
+    "formality": "casual",
+    "color": "navy",
+    "palette": "dark"
+  },
+
+  // ===========================
+  // KIDS — TSHIRTS (5)
+  // ===========================
+
+  {
+    "id": "k_tshirts_1",
+    "name": "Beige Long Sleeve T-Shirt",
+    "price": 390,
+    "gender": "kids",
+    "categoryId": "k_tshirts",
+    "type": "top",
+    "subcategory": "tshirt",
+    "season": ["all_season"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "beige",
+    "palette": "neutral"
+  },
+  {
+    "id": "k_tshirts_2",
+    "name": "Pink Casual T-Shirt",
+    "price": 490,
+    "gender": "kids",
+    "categoryId": "k_tshirts",
+    "type": "top",
+    "subcategory": "tshirt",
+    "season": ["all_season"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "pink",
+    "palette": "light"
+  },
+  {
+    "id": "k_tshirts_3",
+    "name": "White Casual T-Shirt",
+    "price": 590,
+    "gender": "kids",
+    "categoryId": "k_tshirts",
+    "type": "top",
+    "subcategory": "tshirt",
+    "season": ["all_season"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "white",
+    "palette": "light"
+  },
+  {
+    "id": "k_tshirts_4",
+    "name": "White Sport T-Shirt",
+    "price": 690,
+    "gender": "kids",
+    "categoryId": "k_tshirts",
+    "type": "top",
+    "subcategory": "tshirt",
+    "season": ["all_season"],
+    "style": ["sport"],
+    "formality": "sport",
+    "color": "white",
+    "palette": "light"
+  },
+  {
+    "id": "k_tshirts_5",
+    "name": "Pink Everyday T-Shirt",
+    "price": 790,
+    "gender": "kids",
+    "categoryId": "k_tshirts",
+    "type": "top",
+    "subcategory": "tshirt",
+    "season": ["all_season"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "pink",
+    "palette": "light"
+  },
+
+  // ===========================
+  // KIDS — PANTS (5)
+  // ===========================
+
+  {
+    "id": "k_pants_1",
+    "name": "Grey Comfort Pants",
+    "price": 590,
+    "gender": "kids",
+    "categoryId": "k_pants",
+    "type": "bottom",
+    "subcategory": "pants",
+    "season": ["all_season"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "grey",
+    "palette": "neutral"
+  },
+  {
+    "id": "k_pants_2",
+    "name": "Pink Sport Pants",
+    "price": 690,
+    "gender": "kids",
+    "categoryId": "k_pants",
+    "type": "bottom",
+    "subcategory": "pants",
+    "season": ["all_season"],
+    "style": ["sport"],
+    "formality": "sport",
+    "color": "pink",
+    "palette": "light"
+  },
+  {
+    "id": "k_pants_3",
+    "name": "Navy Casual Pants",
+    "price": 790,
+    "gender": "kids",
+    "categoryId": "k_pants",
+    "type": "bottom",
+    "subcategory": "pants",
+    "season": ["all_season"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "navy",
+    "palette": "dark"
+  },
+  {
+    "id": "k_pants_4",
+    "name": "Blue Smart Pants",
+    "price": 890,
+    "gender": "kids",
+    "categoryId": "k_pants",
+    "type": "bottom",
+    "subcategory": "pants",
+    "season": ["spring", "autumn"],
+    "style": ["minimal"],
+    "formality": "smart_casual",
+    "color": "blue",
+    "palette": "light"
+  },
+  {
+    "id": "k_pants_5",
+    "name": "Beige Floral Pants",
+    "price": 990,
+    "gender": "kids",
+    "categoryId": "k_pants",
+    "type": "bottom",
+    "subcategory": "pants",
+    "season": ["all_season"],
+    "style": ["casual", "playful"],
+    "formality": "casual",
+    "color": "beige",
+    "palette": "neutral"
+  },
+
+  // ===========================
+  // KIDS — SWEATERS
+  // ===========================
+
+  {
+    "id": "k_sweaters_1",
+    "name": "Grey Cozy Sweater",
+    "price": 690,
+    "gender": "kids",
+    "categoryId": "k_sweaters",
+    "type": "top",
+    "subcategory": "sweater",
+    "season": ["autumn", "winter"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "grey",
+    "palette": "neutral"
+  },
+  {
+    "id": "k_sweaters_2",
+    "name": "Beige Playful Sweater",
+    "price": 790,
+    "gender": "kids",
+    "categoryId": "k_sweaters",
+    "type": "top",
+    "subcategory": "sweater",
+    "season": ["autumn", "winter", "spring"],
+    "style": ["casual", "playful"],
+    "formality": "casual",
+    "color": "beige",
+    "palette": "light"
+  },
+  {
+    "id": "k_sweaters_3",
+    "name": "Blue Everyday Sweater",
+    "price": 890,
+    "gender": "kids",
+    "categoryId": "k_sweaters",
+    "type": "top",
+    "subcategory": "sweater",
+    "season": ["autumn", "winter"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "blue",
+    "palette": "light"
+  },
+  {
+    "id": "k_sweaters_4",
+    "name": "White Play Sweater",
+    "price": 990,
+    "gender": "kids",
+    "categoryId": "k_sweaters",
+    "type": "top",
+    "subcategory": "sweater",
+    "season": ["autumn", "winter"],
+    "style": ["sport", "playful"],
+    "formality": "casual",
+    "color": "white",
+    "palette": "light"
+  },
+  {
+    "id": "k_sweaters_5",
+    "name": "Pink Smart Sweater",
+    "price": 1090,
+    "gender": "kids",
+    "categoryId": "k_sweaters",
+    "type": "top",
+    "subcategory": "sweater",
+    "season": ["autumn", "winter"],
+    "style": ["minimal"],
+    "formality": "smart_casual",
+    "color": "pink",
+    "palette": "light"
+  },
+
+  // ===========================
+  // KIDS — SETS
+  // ===========================
+
+  {
+    "id": "k_sets_1",
+    "name": "Beige Casual Set",
+    "price": 890,
+    "gender": "kids",
+    "categoryId": "k_sets",
+    "type": "set",
+    "subcategory": "set",
+    "season": ["all_season"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "beige",
+    "palette": "neutral"
+  },
+  {
+    "id": "k_sets_2",
+    "name": "Pink Play Set",
+    "price": 990,
+    "gender": "kids",
+    "categoryId": "k_sets",
+    "type": "set",
+    "subcategory": "set",
+    "season": ["spring", "summer"],
+    "style": ["sport", "playful"],
+    "formality": "casual",
+    "color": "pink",
+    "palette": "light"
+  },
+  {
+    "id": "k_sets_3",
+    "name": "Grey Sport Set",
+    "price": 1090,
+    "gender": "kids",
+    "categoryId": "k_sets",
+    "type": "set",
+    "subcategory": "set",
+    "season": ["all_season"],
+    "style": ["sport"],
+    "formality": "sport",
+    "color": "grey",
+    "palette": "neutral"
+  },
+  {
+    "id": "k_sets_4",
+    "name": "Beige Minimal Set",
+    "price": 1190,
+    "gender": "kids",
+    "categoryId": "k_sets",
+    "type": "set",
+    "subcategory": "set",
+    "season": ["spring", "autumn"],
+    "style": ["minimal"],
+    "formality": "smart_casual",
+    "color": "beige",
+    "palette": "neutral"
+  },
+  {
+    "id": "k_sets_5",
+    "name": "Beige Everyday Set",
+    "price": 1290,
+    "gender": "kids",
+    "categoryId": "k_sets",
+    "type": "set",
+    "subcategory": "set",
+    "season": ["all_season"],
+    "style": ["casual", "playful"],
+    "formality": "casual",
+    "color": "beige",
+    "palette": "neutral"
+  },
+
+  // ===========================
+  // KIDS — SHOES
+  // ===========================
+
+  {
+    "id": "k_shoes_1",
+    "name": "Beige Casual Sneakers",
+    "price": 690,
+    "gender": "kids",
+    "categoryId": "k_shoes",
+    "type": "shoes",
+    "subcategory": "sneakers",
+    "season": ["all_season"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "beige",
+    "palette": "light"
+  },
+  {
+    "id": "k_shoes_2",
+    "name": "Beige Sport Sneakers",
+    "price": 790,
+    "gender": "kids",
+    "categoryId": "k_shoes",
+    "type": "shoes",
+    "subcategory": "sneakers",
+    "season": ["all_season"],
+    "style": ["sport"],
+    "formality": "sport",
+    "color": "beige",
+    "palette": "light"
+  },
+  {
+    "id": "k_shoes_3",
+    "name": "Blue Everyday Trainers",
+    "price": 890,
+    "gender": "kids",
+    "categoryId": "k_shoes",
+    "type": "shoes",
+    "subcategory": "trainers",
+    "season": ["all_season"],
+    "style": ["casual"],
+    "formality": "casual",
+    "color": "blue",
+    "palette": "light"
+  },
+  {
+    "id": "k_shoes_4",
+    "name": "Yellow Sport Trainers",
+    "price": 990,
+    "gender": "kids",
+    "categoryId": "k_shoes",
+    "type": "shoes",
+    "subcategory": "trainers",
+    "season": ["all_season"],
+    "style": ["sport"],
+    "formality": "sport",
+    "color": "yellow",
+    "palette": "vibrant"
+  },
+  {
+    "id": "k_shoes_5",
+    "name": "White Smart Shoes",
+    "price": 1090,
+    "gender": "kids",
+    "categoryId": "k_shoes",
+    "type": "shoes",
+    "subcategory": "loafers",
+    "season": ["spring", "autumn"],
+    "style": ["minimal"],
+    "formality": "smart_casual",
+    "color": "white",
+    "palette": "light"
+  }
+]
