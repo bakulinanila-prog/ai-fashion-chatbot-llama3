@@ -123,18 +123,18 @@ cd ai-fashion-chatbot-llama3
 
 ### 6.2 Instalace a konfigurace backendu
 
-Přejděte do složky backend: 
+1. Přejděte do složky backend: 
 cd backend
 
-Doporučuje se vytvořit virtuální prostředí:
+2. Doporučuje se vytvořit virtuální prostředí:
 
 python -m venv venv
 
-Aktivace prostředí (Windows):
+3. Aktivace prostředí (Windows):
 
 venv\Scripts\activate
 
-Instalace závislostí:
+4. Instalace závislostí:
 
 pip install flask requests ollama
 
@@ -142,11 +142,11 @@ pip install flask requests ollama
 
 ### 6.3 Instalace Ollama
 
-Stáhněte instalační balíček z:
+1. Stáhněte instalační balíček z:
 
 https://ollama.com/
 
-Ověření instalace:
+2. Ověření instalace:
 
 ollama list
 
@@ -154,7 +154,7 @@ ollama list
 
 ### 6.4 Stažení modelu LLaMA 3
 
-ollama pull llama3
+1. ollama pull llama3
 
 Model má velikost přibližně 4–5 GB.
 
@@ -162,7 +162,7 @@ Model má velikost přibližně 4–5 GB.
 
 ### 6.5 Spuštění modelu
 
-Před spuštěním backendu je nutné model aktivovat:
+1. Před spuštěním backendu je nutné model aktivovat:
 
 ollama run llama3
 
@@ -172,16 +172,16 @@ Bez tohoto kroku nebude backend schopen generovat odpovědi.
 
 ### 6.6 Spuštění backendu
 
-Otevřete novou konzoli a přejděte do složky backend:
+1. Otevřete novou konzoli a přejděte do složky backend:
 
 cd backend
 python app.py
 
-Server běží na adrese:
+2. Server běží na adrese:
 
 http://127.0.0.1:5000
 
-Kontrola funkčnosti:
+3. Kontrola funkčnosti:
 
 http://127.0.0.1:5000/health
 
@@ -189,15 +189,15 @@ http://127.0.0.1:5000/health
 
 ### 6.7 Spuštění mobilní aplikace
 
-Přejděte do složky mobilní aplikace:
+1. Přejděte do složky mobilní aplikace:
 
 cd fashion_chat_app
 
-Instalace balíčků:
+2. Instalace balíčků:
 
 flutter pub get
 
-Spuštění aplikace:
+3. Spuštění aplikace:
 
 flutter run
 
@@ -243,23 +243,23 @@ Ověřované parametry:
 
 ## 8. Výkonnost systému
 
-Průměrná latence odpovědi modelu LLaMA: 7–10 sekund
+- Průměrná latence odpovědi modelu LLaMA: 7–10 sekund
 
-Latence pravidlového outfit engine: méně než 0,01 sekundy
+- Latence pravidlového outfit engine: méně než 0,01 sekundy
 
-Databáze obsahuje více než 100 produktů
+- Databáze obsahuje více než 100 produktů
 
 ---
 
 ## 9. Bezpečnost
 
-Model běží lokálně bez využití cloudových API
+- Model běží lokálně bez využití cloudových API
 
-Žádný přenos uživatelských dat třetím stranám
+- Žádný přenos uživatelských dat třetím stranám
 
-Architektura je v souladu s požadavky GDPR
+- Architektura je v souladu s požadavky GDPR
 
-Uživatelská data nejsou ukládána
+- Uživatelská data nejsou ukládána
 
 ---
 
