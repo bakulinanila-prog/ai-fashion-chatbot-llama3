@@ -103,7 +103,7 @@ Men + Casual → jeans + t-shirt + sneakers
 
 Projekt byl testován na následujícím prostředí:
 
-- Windows 10 / 11  
+- Windows 11  
 - Python 3.11  
 - Flutter 3+  
 - Android Emulator  
