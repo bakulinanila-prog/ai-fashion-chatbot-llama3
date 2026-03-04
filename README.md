@@ -115,11 +115,12 @@ Projekt byl testován na následujícím prostředí:
 
 ### 6.1 Klonování repozitáře
 
-```bash
 git clone https://github.com/bakulinanila-prog/ai-fashion-chatbot-llama3.git
 cd ai-fashion-chatbot-llama3
 
-6.2 Instalace a konfigurace backendu
+---
+
+### 6.2 Instalace a konfigurace backendu
 
 Přejděte do složky backend: 
 cd backend
@@ -136,7 +137,9 @@ Instalace závislostí:
 
 pip install flask requests ollama
 
-6.3 Instalace Ollama
+---
+
+### 6.3 Instalace Ollama
 
 Stáhněte instalační balíček z:
 
@@ -146,13 +149,17 @@ Ověření instalace:
 
 ollama list
 
-6.4 Stažení modelu LLaMA 3
+---
+
+### 6.4 Stažení modelu LLaMA 3
 
 ollama pull llama3
 
 Model má velikost přibližně 4–5 GB.
 
-6.5 Spuštění modelu
+---
+
+### 6.5 Spuštění modelu
 
 Před spuštěním backendu je nutné model aktivovat:
 
@@ -160,7 +167,9 @@ ollama run llama3
 
 Bez tohoto kroku nebude backend schopen generovat odpovědi.
 
-6.6 Spuštění backendu
+---
+
+### 6.6 Spuštění backendu
 
 Otevřete novou konzoli a přejděte do složky backend:
 
@@ -175,7 +184,9 @@ Kontrola funkčnosti:
 
 http://127.0.0.1:5000/health
 
-6.7 Spuštění mobilní aplikace
+---
+
+### 6.7 Spuštění mobilní aplikace
 
 Přejděte do složky mobilní aplikace:
 
@@ -195,7 +206,9 @@ Mobilní aplikace komunikuje s backendem přes adresu:
 
 http://10.0.2.2:5000
 
-7. Testování systému
+---
+
+## 7. Testování systému
 
 Po úspěšném spuštění lze otestovat následující scénáře:
 
@@ -225,7 +238,9 @@ Konzistence odpovědí
 
 Latence systému
 
-8. Výkonnost systému
+---
+
+## 8. Výkonnost systému
 
 Průměrná latence odpovědi modelu LLaMA: 7–10 sekund
 
@@ -233,7 +248,9 @@ Latence pravidlového outfit engine: méně než 0,01 sekundy
 
 Databáze obsahuje více než 100 produktů
 
-9. Bezpečnost
+---
+
+## 9. Bezpečnost
 
 Model běží lokálně bez využití cloudových API
 
@@ -243,7 +260,9 @@ Architektura je v souladu s požadavky GDPR
 
 Uživatelská data nejsou ukládána
 
-10. Kontext bakalářské práce
+---
+
+## 10. Kontext bakalářské práce
 
 Projekt je součástí bakalářské práce s názvem:
 
@@ -261,6 +280,8 @@ Testování relevance odpovědí
 
 Analýzu latence systému
 
-Licence
+---
 
-Projekt byl vytvořen pro vzdělávací účely v rámci bakalářské práce.
+## 11. Licence
+
+Projekt byl vytvořen pro vzdělávací účely v rámci bakalářské práce. 
