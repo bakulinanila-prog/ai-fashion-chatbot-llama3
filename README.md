@@ -123,7 +123,8 @@ cd ai-fashion-chatbot-llama3
 
 ### 6.2 Instalace a konfigurace backendu
 
-1. Přejděte do složky backend: 
+1. Přejděte do složky backend:
+
 cd backend
 
 2. Doporučuje se vytvořit virtuální prostředí:
