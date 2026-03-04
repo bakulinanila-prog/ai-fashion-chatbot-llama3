@@ -116,6 +116,7 @@ Projekt byl testován na následujícím prostředí:
 ### 6.1 Klonování repozitáře
 
 git clone https://github.com/bakulinanila-prog/ai-fashion-chatbot-llama3.git
+
 cd ai-fashion-chatbot-llama3
 
 ---
@@ -214,29 +215,29 @@ Po úspěšném spuštění lze otestovat následující scénáře:
 
 Vyhledávání produktů:
 
-women winter coat under 3000
+- women winter coat under 3000
 
-elegant dress for party under 4000
+- elegant dress for party under 4000
 
-men sporty shoes for summer
+- men sporty shoes for summer
 
 Generování outfitů:
 
-Build me an outfit
+- Build me an outfit
 
-Volba pohlaví
+- Volba pohlaví
 
-Volba příležitosti
+- Volba příležitosti
 
 Ověřované parametry:
 
-Správnost extrahovaného intentu
+- Správnost extrahovaného intentu
 
-Relevance vrácených produktů
+- Relevance vrácených produktů
 
-Konzistence odpovědí
+- Konzistence odpovědí
 
-Latence systému
+- Latence systému
 
 ---
 
@@ -270,15 +271,15 @@ Projekt je součástí bakalářské práce s názvem:
 
 Praktická část zahrnuje:
 
-Implementaci backendového API
+- Implementaci backendového API
 
-Integraci modelu LLaMA 3
+- Integraci modelu LLaMA 3
 
-Návrh konverzační logiky
+- Návrh konverzační logiky
 
-Testování relevance odpovědí
+- Testování relevance odpovědí
 
-Analýzu latence systému
+- Analýzu latence systému
 
 ---
 
